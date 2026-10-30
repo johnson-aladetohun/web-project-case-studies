@@ -1,8 +1,30 @@
-# Web Project Case Studies
+# Johnson Adeola Aladetohun — Web Development & Support Portfolio
 
-Portfolio case studies for **Johnson Adeola Aladetohun** covering web development, WordPress/PHP work, website maintenance, hosting and technical support.
+Selected project case studies and **clearly labeled original technical exercises** for remote web-development, WordPress/PHP, hosting and technical-support opportunities.
+
+**Contact:** [johnson@iworksgt.com](mailto:johnson@iworksgt.com) · [LinkedIn](https://www.linkedin.com/in/johnson-aladetohun-4a1b26437/) · [GitHub profile](https://github.com/johnson-aladetohun)
+
+## Where to start
+
+| Interested in… | View this | Why |
+| --- | --- | --- |
+| WordPress/PHP coding | [Site Operations Snapshot (original sample plugin)](examples/site-operations-snapshot/) | Read-only Tools dashboard with capability checks, output escaping and operational diagnostics |
+| Hosting and support | [WordPress & Hosting Support Playbook](wordpress-hosting-support-playbook/README.md) | Triage, cPanel/WHM, DNS, SSL, email, migration and recovery steps |
+| Customer issue handling | [Support Incident Simulation](examples/support-incident-simulation/README.md) | Clearly fictional support ticket with root-cause workflow and client updates |
+| PHP application workflows | [Triply Travels](triply-travels/README.md) · [HOG Healthcare](hog-healthcare/README.md) | Multi-role flows, service requests, learner administration |
+| SaaS/product architecture | [Kobiza](kobiza/README.md) · [Listora](listora/README.md) | Commerce operations, role-based marketplaces and back-office systems |
+| CMS/site delivery | [Rudder Sports Management](rudder-sports/README.md) · [Sojay Farms](sojay-farms/README.md) | Responsive sites, content management and support |
+
+## Original technical examples
+
+These are portfolio exercises created independently of customer systems and are **not claimed to be production deployments**:
+
+- **[WordPress Site Operations Snapshot](examples/site-operations-snapshot/README.md)** — includes source code, staging setup instructions, security decisions and manual test cases.
+- **[Technical Support Incident Simulation](examples/support-incident-simulation/README.md)** — an invented support scenario with careful diagnosis, communication, success criteria and information-protection rules.
 
 ## Project case studies
+
+The case-study folders describe project features and areas of work. They are **not replicas of proprietary customer repositories**.
 
 1. [Listora](listora/README.md)
 2. [Sojay Farms](sojay-farms/README.md)
@@ -23,21 +45,16 @@ Portfolio case studies for **Johnson Adeola Aladetohun** covering web developmen
 17. [Amandla Institute](amandla-institute/README.md)
 18. [StratoLift](stratolift/README.md)
 
-## Support documentation
-
-- [WordPress & Hosting Support Playbook](wordpress-hosting-support-playbook/README.md)
-
 ## Skills represented
 
-- WordPress and CMS administration
-- PHP, MySQL, SQLite, HTML, CSS and JavaScript
-- Laravel and modern web application development
-- Responsive business websites
-- cPanel/WHM hosting administration
-- DNS, SSL and business email support
-- Website migrations, backups and restores
-- Production troubleshooting and maintenance
+- WordPress themes, plugins, WooCommerce and website maintenance
+- PHP, MySQL, SQLite, HTML, CSS, JavaScript and responsive web development
+- cPanel/WHM, DNS, SSL, mail routing and business-email troubleshooting
+- Migrations, backups, restores, incident triage and user support
+- Familiarity with Laravel and application integration concepts
 
-## Portfolio note
+## Integrity and permissions
 
-These case studies present project work attributed to Johnson Adeola Aladetohun. Public references are included where available. Private credentials, customer data, production databases and other sensitive operational material are intentionally excluded.
+Project descriptions, live-site links and third-party source references must not be taken as proof that this account owns the underlying code or commercial brand. No client-owned source should be copied to this account without an explicit right to publish it. Any third-party source references shown inside individual cases require independent attribution/permission review before use as hiring evidence. Client credentials, production databases, private tickets and customer information are excluded.
+
+**Development samples are explicitly marked as demonstrations; case studies are documentation, not independent code repositories.**
